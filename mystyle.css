@@ -73,7 +73,7 @@ h1,h2,h3,h4,h5,h6{
     padding: 3px 10px;
     border-bottom: #ed8e00 3px solid;
     text-decoration: none;
-    color: black;
+    color: black; 
 }
 .hexagon {
     position: relative;
